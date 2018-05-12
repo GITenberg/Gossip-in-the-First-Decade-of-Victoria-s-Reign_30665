@@ -1,0 +1,26 @@
+_repo: Gossip-in-the-First-Decade-of-Victoria-s-Reign_30665
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ashton, John
+    birthdate: 1834
+    deathdate: 1911
+    gutenberg_agent_id: '9006'
+    url: http://www.gutenberg.org/2009/agents/9006
+description: ''
+gutenberg_issued: '2009-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30665'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social life and customs -- 19th century'
+- !lcc 'DA'
+title: Gossip in the First Decade of Victoria's Reign
+url: http://www.gutenberg.org/ebooks/30665
